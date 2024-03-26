@@ -10,3 +10,8 @@ How to use:
 5. Make sure you are in a chess.com game, its not your turn and your chess.com game is fullscreen (focusmode) DONT FULL SCREEN YOUR BROWSER. IT WILL NOT WORK THEN
 6. Run the python script
 
+To give some clairity:
+
+This script will check the color of your timer. Dont put your terminal above the timers
+The script runs with no delay
+After every time the script runs it will ask you if you want to check again. If you hear the bleeping sound, dont close the terminal yet. Most stallers will play after a long time 1 move to hope you dont get back. You should keep the option availible to run the script again.
