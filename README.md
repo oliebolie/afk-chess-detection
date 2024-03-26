@@ -6,6 +6,7 @@ How to use:
 1. Download the zip file
 2. Extract the folder where you like
 3. In your terminal, go to the path of the script
-4. Make sure you are in a chess.com game, its not your turn and your game is fullscreen (Maximized)
-5. Run the python script
+4. pip install -r requirements.txt
+5. Make sure you are in a chess.com game, its not your turn and your game is fullscreen (Maximized)
+6. Run the python script
 
